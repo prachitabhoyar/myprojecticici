@@ -1,13 +1,14 @@
 import React from "react";
-//import Travelinsurance from "./Travel_Insurance/Travelinsurance";
-//import { BrowserRouter as Router, Routes, Route } from "react-router-dom";
-// import FormMultiTrip from "./Travel_Insurance/FormMultiTrip";
-// import FormSingleTrip from "./Travel_Insurance/FormSingleTrip"
-// import FormExtendPolicy from "./Travel_Insurance/FormExtendPolicy";
+import Travelinsurance from "./Travel_Insurance/travelpage1/Travelinsurance"
+// import { BrowserRouter as Router, Routes, Route } from "react-router-dom";
+// import FormMultiTrip from "./Travel_Insurance/travelpage1/FormMultiTrip"
+// import FormSingleTrip from "./Travel_Insurance/travelpage1/FormSingleTrip"
+// import FormExtendPolicy from "./Travel_Insurance/travelpage1/FormExtendPolicy";
 import StudentTravel from "./Travel_Insurance/studenttravel/StudentTravel";
 function App() {
   return (
     <div>
+      {/* prachita */}
       {/* <Router>
       <Travelinsurance />
         <Routes>
